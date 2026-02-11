@@ -1,5 +1,5 @@
 {
-  "name": "Starter Kit",
+  "name": "Help and support resources for the Strategic Education Partners Therapy Platform",
   "colors": {
     "light": {
       "brand": "#F97316"
@@ -168,5 +168,14 @@
         "icon": "help-circle"
       }
     ]
+  },
+  "seo": {
+    "robots:index": false,
+    "robots:follow": false,
+    "llms-txt:enabled": false,
+    "sitemap:enabled": false
+  },
+  "ai": {
+    "ai-assistant:enabled": false
   }
 }
