@@ -15,6 +15,19 @@
         "icon": "book",
         "groups": [
           {
+            "group": "Policies",
+            "pages": [
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              },
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              }
+            ]
+          },
+          {
             "group": "Start Here",
             "icon": "rocket",
             "pages": [
@@ -148,6 +161,11 @@
             "icon": "history"
           }
         ]
+      },
+      {
+        "tab": "Help and support",
+        "pages": [],
+        "icon": "help-circle"
       }
     ]
   }
