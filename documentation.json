@@ -9,36 +9,56 @@
     }
   },
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Student resources",
+        "group": "Provider resources",
         "pages": [
           {
-            "title": "Accessing your provider's therapy room",
-            "path": "students/therapy-room-access"
+            "title": "Onboarding",
+            "path": "onboarding"
+          },
+          {
+            "title": "Troubleshooting",
+            "path": "providers/troubleshooting"
           }
         ]
       },
       {
-        "tab": "School resources",
+        "group": "Student resources",
         "pages": [
           {
-            "title": "Firewall settings",
+            "title": "Accessing therapy rooms",
+            "path": "students/therapy-room-access"
+          },
+          {
+            "title": "Troubleshooting",
+            "path": "students/troubleshooting"
+          }
+        ]
+      },
+      {
+        "group": "School resources",
+        "pages": [
+          {
+            "title": "Firewall Settings",
             "path": "firewall-settings"
           }
         ]
       },
       {
-        "tab": "Provider resources",
+        "group": "Policies",
         "pages": [
           {
-            "title": "Onboarding",
-            "path": "onboarding"
+            "title": "Terms Of Use",
+            "path": "terms-of-use"
+          },
+          {
+            "title": "Privacy Policy",
+            "path": "privacy-policy"
           }
         ]
       }
-    ],
-    "pages": []
+    ]
   },
   "seo": {
     "robots:index": false,
