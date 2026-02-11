@@ -12,7 +12,12 @@
     "tabs": [
       {
         "tab": "Student resources",
-        "pages": []
+        "pages": [
+          {
+            "title": "Accessing your provider's therapy room",
+            "path": "students/therapy-room-access"
+          }
+        ]
       },
       {
         "tab": "School resources",
@@ -25,7 +30,12 @@
       },
       {
         "tab": "Provider resources",
-        "pages": []
+        "pages": [
+          {
+            "title": "Onboarding",
+            "path": "onboarding"
+          }
+        ]
       }
     ],
     "pages": []
