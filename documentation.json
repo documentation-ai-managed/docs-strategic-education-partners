@@ -11,20 +11,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Provider resources",
-        "groups": [
-          {
-            "group": "Provider resources",
-            "pages": [
-              {
-                "title": "Onboarding",
-                "path": "onboarding"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Student resources",
         "pages": []
       },
@@ -36,8 +22,13 @@
             "path": "firewall-settings"
           }
         ]
+      },
+      {
+        "tab": "Provider resources",
+        "pages": []
       }
-    ]
+    ],
+    "pages": []
   },
   "seo": {
     "robots:index": false,
