@@ -13,52 +13,57 @@
     }
   },
   "navigation": {
-    "groups": [
+    "dropdowns": [
       {
-        "group": "Provider resources",
-        "pages": [
+        "dropdown": "Hi",
+        "groups": [
           {
-            "title": "Onboarding",
-            "path": "onboarding"
+            "group": "Provider resources",
+            "pages": [
+              {
+                "title": "Onboarding",
+                "path": "providers/onboarding"
+              },
+              {
+                "title": "Troubleshooting",
+                "path": "providers/troubleshooting"
+              }
+            ]
           },
           {
-            "title": "Troubleshooting",
-            "path": "providers/troubleshooting"
-          }
-        ]
-      },
-      {
-        "group": "Student resources",
-        "pages": [
-          {
-            "title": "Accessing therapy rooms",
-            "path": "students/therapy-room-access"
+            "group": "Student resources",
+            "pages": [
+              {
+                "title": "Accessing therapy rooms",
+                "path": "students/therapy-room-access"
+              },
+              {
+                "title": "Troubleshooting",
+                "path": "students/troubleshooting"
+              }
+            ]
           },
           {
-            "title": "Troubleshooting",
-            "path": "students/troubleshooting"
-          }
-        ]
-      },
-      {
-        "group": "School resources",
-        "pages": [
-          {
-            "title": "Firewall Settings",
-            "path": "firewall-settings"
-          }
-        ]
-      },
-      {
-        "group": "Policies",
-        "pages": [
-          {
-            "title": "Terms Of Use",
-            "path": "terms-of-use"
+            "group": "School resources",
+            "pages": [
+              {
+                "title": "Firewall Settings",
+                "path": "firewall-settings"
+              }
+            ]
           },
           {
-            "title": "Privacy Policy",
-            "path": "privacy-policy"
+            "group": "Policies",
+            "pages": [
+              {
+                "title": "Terms Of Use",
+                "path": "terms-of-use"
+              },
+              {
+                "title": "Privacy Policy",
+                "path": "privacy-policy"
+              }
+            ]
           }
         ]
       }
