@@ -18,6 +18,54 @@
         "tab": "Provider resources",
         "groups": [
           {
+            "group": "Getting started",
+            "pages": [
+              {
+                "title": "Welcome!",
+                "path": "getting-started"
+              }
+            ]
+          },
+          {
+            "group": "Provider resources",
+            "pages": [
+              {
+                "title": "Providers/troubleshooting",
+                "path": "providers/troubleshooting"
+              },
+              {
+                "title": "Providers/onboarding",
+                "path": "providers/onboarding"
+              },
+              {
+                "group": "Platform guides",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Student resources",
+            "pages": [
+              {
+                "title": "Students/troubleshooting",
+                "path": "students/troubleshooting"
+              },
+              {
+                "title": "Students/therapy Room Access",
+                "path": "students/therapy-room-access"
+              }
+            ]
+          },
+          {
+            "group": "School resources",
+            "pages": [
+              {
+                "title": "Firewall Settings",
+                "path": "firewall-settings"
+              }
+            ]
+          },
+          {
             "group": "Policies",
             "pages": [
               {
@@ -27,10 +75,6 @@
               {
                 "title": "Terms Of Use",
                 "path": "terms-of-use"
-              },
-              {
-                "group": "All",
-                "pages": []
               }
             ]
           }
