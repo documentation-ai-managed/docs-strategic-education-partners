@@ -13,70 +13,57 @@
     }
   },
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Provider resources",
-        "groups": [
+        "group": "Welcome!",
+        "pages": [
           {
-            "group": "Getting started",
-            "pages": [
-              {
-                "title": "Welcome!",
-                "path": "getting-started"
-              }
-            ]
+            "title": "Getting started",
+            "path": "getting-started"
+          }
+        ]
+      },
+      {
+        "group": "Provider resources",
+        "pages": [
+          {
+            "title": "Onboarding",
+            "path": "providers/onboarding"
           },
           {
-            "group": "Provider resources",
-            "pages": [
-              {
-                "title": "Onboarding",
-                "path": "providers/onboarding"
-              },
-              {
-                "title": "Troubleshooting",
-                "path": "providers/troubleshooting"
-              },
-              {
-                "group": "Platform guides",
-                "pages": []
-              }
-            ]
+            "title": "Troubleshooting",
+            "path": "providers/troubleshooting"
+          }
+        ]
+      },
+      {
+        "group": "Student resources",
+        "pages": [
+          {
+            "title": "Accessing therapy rooms",
+            "path": "students/accessing-therapy-rooms"
+          }
+        ]
+      },
+      {
+        "group": "School resources",
+        "pages": [
+          {
+            "title": "Setup guide",
+            "path": "schools/setup"
+          }
+        ]
+      },
+      {
+        "group": "Policies",
+        "pages": [
+          {
+            "title": "Privacy policy",
+            "path": "privacy-policy"
           },
           {
-            "group": "Student resources",
-            "pages": [
-              {
-                "title": "Accessing therapy rooms",
-                "path": "students/accessing-therapy-rooms"
-              },
-              {
-                "title": "Troubleshooting",
-                "path": "students/troubleshooting"
-              }
-            ]
-          },
-          {
-            "group": "School resources",
-            "pages": [
-              {
-                "title": "Setup guide",
-                "path": "schools/setup"
-              }
-            ]
-          },
-          {
-            "group": "Policies",
-            "pages": [
-              {
-                "title": "Privacy policy",
-                "path": "privacy-policy"
-              },
-              {
-                "title": "Terms of use",
-                "path": "terms-of-use"
-              }
-            ]
+            "title": "Terms of use",
+            "path": "terms-of-use"
           }
         ]
       }
@@ -91,8 +78,8 @@
   "ai": {
     "ai-assistant:enabled": false
   },
-  "logo-light": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918154361-w14tlryp8l-SEP_SEP_Horizontal_Blue.svg?q=85&fm=auto&auto=compress%2Cformat",
-  "logo-dark": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918154361-w14tlryp8l-SEP_SEP_Horizontal_Blue.svg?q=85&fm=auto&auto=compress%2Cformat",
+  "logo-light": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770929993328-p5vywtul72-SEP-Therapy-text-logo---dark-blue.svg?q=85&fm=auto&auto=compress%2Cformat",
+  "logo-dark": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770930002343-8hwyypnasv3-SEP-Therapy-text-logo---light-gray.svg?q=85&fm=auto&auto=compress%2Cformat",
   "favicon": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918190466-i95hxff6zw-SEP-icon.png?q=85&fm=auto&auto=compress%2Cformat",
   "initialRoute": "getting-started"
 }
