@@ -34,8 +34,13 @@
                 "path": "privacy-policy"
               },
               {
-                "title": "Terms Of Use",
-                "path": "terms-of-use"
+                "group": "All",
+                "pages": [
+                  {
+                    "title": "Terms Of Use",
+                    "path": "terms-of-use"
+                  }
+                ]
               }
             ]
           }
