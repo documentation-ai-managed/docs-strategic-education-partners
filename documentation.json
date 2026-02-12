@@ -18,15 +18,6 @@
         "tab": "Provider resources",
         "groups": [
           {
-            "group": "Getting started",
-            "pages": [
-              {
-                "title": "Welcome!",
-                "path": "getting-started"
-              }
-            ]
-          },
-          {
             "group": "Policies",
             "pages": [
               {
@@ -34,13 +25,12 @@
                 "path": "privacy-policy"
               },
               {
+                "title": "Terms Of Use",
+                "path": "terms-of-use"
+              },
+              {
                 "group": "All",
-                "pages": [
-                  {
-                    "title": "Terms Of Use",
-                    "path": "terms-of-use"
-                  }
-                ]
+                "pages": []
               }
             ]
           }
@@ -59,5 +49,6 @@
   },
   "logo-light": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918154361-w14tlryp8l-SEP_SEP_Horizontal_Blue.svg?q=85&fm=auto&auto=compress%2Cformat",
   "logo-dark": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918154361-w14tlryp8l-SEP_SEP_Horizontal_Blue.svg?q=85&fm=auto&auto=compress%2Cformat",
-  "favicon": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918190466-i95hxff6zw-SEP-icon.png?q=85&fm=auto&auto=compress%2Cformat"
+  "favicon": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918190466-i95hxff6zw-SEP-icon.png?q=85&fm=auto&auto=compress%2Cformat",
+  "initialRoute": "getting-started"
 }
