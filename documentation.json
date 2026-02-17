@@ -13,59 +13,107 @@
     }
   },
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Welcome!",
+        "tab": "Getting started",
+        "groups": [
+          {
+            "group": "Welcome!",
+            "pages": [
+              {
+                "title": "Getting started",
+                "path": "getting-started"
+              }
+            ]
+          },
+          {
+            "group": "Provider resources",
+            "pages": [
+              {
+                "title": "Onboarding",
+                "path": "providers/onboarding"
+              },
+              {
+                "title": "Troubleshooting",
+                "path": "providers/troubleshooting"
+              }
+            ]
+          },
+          {
+            "group": "Student resources",
+            "pages": [
+              {
+                "title": "Accessing therapy rooms",
+                "path": "students/accessing-therapy-rooms"
+              }
+            ]
+          },
+          {
+            "group": "School resources",
+            "pages": [
+              {
+                "title": "Setup guide",
+                "path": "schools/setup"
+              }
+            ]
+          },
+          {
+            "group": "Policies",
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
+          },
+          {
+            "group": "Policies",
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Provider resources",
         "pages": [
           {
             "title": "Getting started",
-            "path": "getting-started"
-          }
-        ]
-      },
-      {
-        "group": "Provider resources",
-        "pages": [
-          {
-            "title": "Onboarding",
-            "path": "providers/onboarding"
+            "path": "providers/getting-started"
           },
           {
-            "title": "Troubleshooting",
-            "path": "providers/troubleshooting"
+            "group": "Policies",
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
           }
         ]
       },
       {
-        "group": "Student resources",
-        "pages": [
-          {
-            "title": "Accessing therapy rooms",
-            "path": "students/accessing-therapy-rooms"
-          }
-        ]
+        "tab": "Student resources",
+        "pages": []
       },
       {
-        "group": "School resources",
-        "pages": [
-          {
-            "title": "Setup guide",
-            "path": "schools/setup"
-          }
-        ]
-      },
-      {
-        "group": "Policies",
-        "pages": [
-          {
-            "title": "Privacy policy",
-            "path": "privacy-policy"
-          },
-          {
-            "title": "Terms of use",
-            "path": "terms-of-use"
-          }
-        ]
+        "tab": "School resources",
+        "pages": []
       }
     ]
   },
