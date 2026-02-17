@@ -22,12 +22,18 @@
             "path": "getting-started"
           },
           {
-            "title": "Privacy policy",
-            "path": "privacy-policy"
-          },
-          {
-            "title": "Terms of use",
-            "path": "terms-of-use"
+            "group": "Policies",
+            "expandable": false,
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
           }
         ]
       },
@@ -56,11 +62,49 @@
       },
       {
         "tab": "Student resources",
-        "pages": []
+        "pages": [
+          {
+            "title": "Students/accessing Therapy Rooms",
+            "path": "students/accessing-therapy-rooms"
+          },
+          {
+            "group": "Policies",
+            "expandable": false,
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
+          }
+        ]
       },
       {
         "tab": "School resources",
-        "pages": []
+        "pages": [
+          {
+            "title": "Schools/setup",
+            "path": "schools/setup"
+          },
+          {
+            "group": "Policies",
+            "expandable": false,
+            "pages": [
+              {
+                "title": "Privacy policy",
+                "path": "privacy-policy"
+              },
+              {
+                "title": "Terms of use",
+                "path": "terms-of-use"
+              }
+            ]
+          }
+        ]
       }
     ],
     "pages": []
