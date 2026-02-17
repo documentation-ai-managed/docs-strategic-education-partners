@@ -16,72 +16,18 @@
     "tabs": [
       {
         "tab": "Getting started",
-        "groups": [
+        "pages": [
           {
-            "group": "Welcome!",
-            "pages": [
-              {
-                "title": "Getting started",
-                "path": "getting-started"
-              }
-            ]
+            "title": "Getting started",
+            "path": "getting-started"
           },
           {
-            "group": "Provider resources",
-            "pages": [
-              {
-                "title": "Onboarding",
-                "path": "providers/onboarding"
-              },
-              {
-                "title": "Troubleshooting",
-                "path": "providers/troubleshooting"
-              }
-            ]
+            "title": "Privacy policy",
+            "path": "privacy-policy"
           },
           {
-            "group": "Student resources",
-            "pages": [
-              {
-                "title": "Accessing therapy rooms",
-                "path": "students/accessing-therapy-rooms"
-              }
-            ]
-          },
-          {
-            "group": "School resources",
-            "pages": [
-              {
-                "title": "Setup guide",
-                "path": "schools/setup"
-              }
-            ]
-          },
-          {
-            "group": "Policies",
-            "pages": [
-              {
-                "title": "Privacy policy",
-                "path": "privacy-policy"
-              },
-              {
-                "title": "Terms of use",
-                "path": "terms-of-use"
-              }
-            ]
-          },
-          {
-            "group": "Policies",
-            "pages": [
-              {
-                "title": "Privacy policy",
-                "path": "privacy-policy"
-              },
-              {
-                "title": "Terms of use",
-                "path": "terms-of-use"
-              }
-            ]
+            "title": "Terms of use",
+            "path": "terms-of-use"
           }
         ]
       },
@@ -94,6 +40,7 @@
           },
           {
             "group": "Policies",
+            "expandable": false,
             "pages": [
               {
                 "title": "Privacy policy",
@@ -115,7 +62,8 @@
         "tab": "School resources",
         "pages": []
       }
-    ]
+    ],
+    "pages": []
   },
   "seo": {
     "robots:index": false,
