@@ -18,7 +18,7 @@
         "tab": "Getting started",
         "pages": [
           {
-            "title": "Getting started",
+            "title": "Welcome!",
             "path": "getting-started"
           },
           {
@@ -64,8 +64,8 @@
         "tab": "Student resources",
         "pages": [
           {
-            "title": "Students/accessing Therapy Rooms",
-            "path": "students/accessing-therapy-rooms"
+            "title": "Getting started",
+            "path": "students/getting-started"
           },
           {
             "group": "Policies",
@@ -87,7 +87,11 @@
         "tab": "School resources",
         "pages": [
           {
-            "title": "Schools/setup",
+            "title": "Getting started",
+            "path": "schools/getting-started"
+          },
+          {
+            "title": "Setup",
             "path": "schools/setup"
           },
           {
@@ -121,5 +125,6 @@
   "logo-light": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770929993328-p5vywtul72-SEP-Therapy-text-logo---dark-blue.svg?q=85&fm=auto&auto=compress%2Cformat",
   "logo-dark": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770930002343-8hwyypnasv3-SEP-Therapy-text-logo---light-gray.svg?q=85&fm=auto&auto=compress%2Cformat",
   "favicon": "https://blob-cdn.documentation.ai/org-2298b9ec-a237-4db7-8e7e-dee229ecc015/doc-f231f1a4-ce9f-444f-aa94-d0fc4be71883/1770918190466-i95hxff6zw-SEP-icon.png?q=85&fm=auto&auto=compress%2Cformat",
-  "initialRoute": "getting-started"
+  "initialRoute": "getting-started",
+  "template": "atlas"
 }
