@@ -32,12 +32,16 @@
               {
                 "title": "Privacy policy",
                 "path": "privacy-policy",
-                "icon": "lucide-scroll-text"
+                "icon": "lucide-scroll-text",
+                "show-parent-label": false,
+                "content-width": "wide"
               },
               {
                 "title": "Terms of use",
                 "path": "terms-of-use",
-                "icon": "lucide-scroll-text"
+                "icon": "lucide-scroll-text",
+                "show-parent-label": false,
+                "content-width": "wide"
               }
             ]
           }
@@ -116,6 +120,16 @@
             "icon": "arrow-right-circle"
           },
           {
+            "title": "Accessing therapy rooms",
+            "path": "students/accessing-therapy-rooms",
+            "icon": "lucide-video"
+          },
+          {
+            "title": "Troubleshooting",
+            "path": "students/troubleshooting",
+            "icon": "alert-triangle"
+          },
+          {
             "group": "Policies",
             "expandable": false,
             "pages": [
@@ -142,8 +156,16 @@
             "icon": "arrow-right-circle"
           },
           {
-            "title": "Setup",
-            "path": "schools/setup"
+            "title": "Setup guide",
+            "path": "schools/setup",
+            "icon": "lucide-settings",
+            "show-toc": false,
+            "content-width": "wide"
+          },
+          {
+            "title": "Troubleshooting",
+            "path": "schools/troubleshooting",
+            "icon": "alert-triangle"
           },
           {
             "group": "Policies",
