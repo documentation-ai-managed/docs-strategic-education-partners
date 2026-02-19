@@ -42,13 +42,11 @@
         "pages": [
           {
             "title": "Getting started",
-            "path": "providers/getting-started",
-            "icon": "info"
+            "path": "providers/getting-started"
           },
           {
             "title": "Troubleshooting",
-            "path": "providers/troubleshooting",
-            "icon": "lucide-wrench"
+            "path": "providers/troubleshooting"
           },
           {
             "group": "Platform Guide",
@@ -56,8 +54,7 @@
             "pages": [
               {
                 "title": "Dashboard",
-                "path": "providers/dashboard",
-                "icon": "lucide-file-text"
+                "path": "providers/dashboard"
               },
               {
                 "title": "User profile",
@@ -75,7 +72,8 @@
                 "title": "Waiting room",
                 "path": "providers/waiting-room"
               }
-            ]
+            ],
+            "icon": "book-open-text"
           },
           {
             "group": "Policies",
@@ -84,14 +82,15 @@
               {
                 "title": "Privacy policy",
                 "path": "privacy-policy",
-                "icon": "scroll-text-icon"
+                "content-width": "wide"
               },
               {
                 "title": "Terms of use",
                 "path": "terms-of-use",
-                "icon": "scroll-text-icon"
+                "content-width": "wide"
               }
-            ]
+            ],
+            "icon": "scroll-text-icon"
           }
         ]
       },
