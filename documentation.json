@@ -42,11 +42,13 @@
         "pages": [
           {
             "title": "Getting started",
-            "path": "providers/getting-started"
+            "path": "providers/getting-started",
+            "icon": "info"
           },
           {
             "title": "Troubleshooting",
-            "path": "providers/troubleshooting"
+            "path": "providers/troubleshooting",
+            "icon": "lucide-wrench"
           },
           {
             "group": "Platform Guide",
@@ -54,7 +56,8 @@
             "pages": [
               {
                 "title": "Dashboard",
-                "path": "providers/dashboard"
+                "path": "providers/dashboard",
+                "icon": "lucide-file-text"
               },
               {
                 "title": "User profile",
@@ -80,11 +83,13 @@
             "pages": [
               {
                 "title": "Privacy policy",
-                "path": "privacy-policy"
+                "path": "privacy-policy",
+                "icon": "scroll-text-icon"
               },
               {
                 "title": "Terms of use",
-                "path": "terms-of-use"
+                "path": "terms-of-use",
+                "icon": "scroll-text-icon"
               }
             ]
           }
