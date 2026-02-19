@@ -45,6 +45,10 @@
             "path": "providers/getting-started"
           },
           {
+            "title": "Troubleshooting",
+            "path": "providers/troubleshooting"
+          },
+          {
             "group": "Platform Guide",
             "expandable": false,
             "pages": [
@@ -53,8 +57,20 @@
                 "path": "providers/dashboard"
               },
               {
-                "title": "Terms of use",
-                "path": "terms-of-use"
+                "title": "User profile",
+                "path": "providers/user-profile"
+              },
+              {
+                "title": "Student records",
+                "path": "providers/student-records"
+              },
+              {
+                "title": "Therapy room",
+                "path": "providers/therapy-room"
+              },
+              {
+                "title": "Waiting room",
+                "path": "providers/waiting-room"
               }
             ]
           },
