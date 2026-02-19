@@ -43,18 +43,33 @@
           {
             "title": "Getting started",
             "path": "providers/getting-started"
-          },
+          }
+        ],
+        "groups": [
           {
-            "group": "Policies",
-            "expandable": false,
+            "group": "Platform guide",
             "pages": [
               {
-                "title": "Privacy policy",
-                "path": "privacy-policy"
+                "title": "Dashboard",
+                "path": "providers/dashboard"
               },
               {
-                "title": "Terms of use",
-                "path": "terms-of-use"
+                "title": "Getting started",
+                "path": "providers/getting-started"
+              },
+              {
+                "group": "Policies",
+                "expandable": false,
+                "pages": [
+                  {
+                    "title": "Privacy policy",
+                    "path": "privacy-policy"
+                  },
+                  {
+                    "title": "Terms of use",
+                    "path": "terms-of-use"
+                  }
+                ]
               }
             ]
           }
