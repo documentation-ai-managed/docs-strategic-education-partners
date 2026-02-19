@@ -15,11 +15,15 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Getting started",
+        "tab": "Welcome!",
         "pages": [
           {
             "title": "Welcome!",
-            "path": "getting-started"
+            "path": "getting-started",
+            "show-toc": false,
+            "show-parent-label": false,
+            "content-width": "wide",
+            "icon": "home"
           },
           {
             "group": "Policies",
@@ -27,11 +31,13 @@
             "pages": [
               {
                 "title": "Privacy policy",
-                "path": "privacy-policy"
+                "path": "privacy-policy",
+                "icon": "lucide-scroll-text"
               },
               {
                 "title": "Terms of use",
-                "path": "terms-of-use"
+                "path": "terms-of-use",
+                "icon": "lucide-scroll-text"
               }
             ]
           }
@@ -42,11 +48,13 @@
         "pages": [
           {
             "title": "Getting started",
-            "path": "providers/getting-started"
+            "path": "providers/getting-started",
+            "icon": "arrow-right-circle"
           },
           {
             "title": "Troubleshooting",
-            "path": "providers/troubleshooting"
+            "path": "providers/troubleshooting",
+            "icon": "alert-triangle"
           },
           {
             "group": "Platform Guide",
@@ -54,26 +62,30 @@
             "pages": [
               {
                 "title": "Dashboard",
-                "path": "providers/dashboard"
+                "path": "providers/dashboard",
+                "icon": "app-window"
               },
               {
                 "title": "User profile",
-                "path": "providers/user-profile"
+                "path": "providers/user-profile",
+                "icon": "lucide-user-circle2"
               },
               {
                 "title": "Student records",
-                "path": "providers/student-records"
+                "path": "providers/student-records",
+                "icon": "files"
               },
               {
                 "title": "Therapy room",
-                "path": "providers/therapy-room"
+                "path": "providers/therapy-room",
+                "icon": "video"
               },
               {
                 "title": "Waiting room",
-                "path": "providers/waiting-room"
+                "path": "providers/waiting-room",
+                "icon": "alarm-clock-icon"
               }
-            ],
-            "icon": "book-open-text"
+            ]
           },
           {
             "group": "Policies",
@@ -82,15 +94,16 @@
               {
                 "title": "Privacy policy",
                 "path": "privacy-policy",
-                "content-width": "wide"
+                "content-width": "wide",
+                "icon": "lucide-scroll-text"
               },
               {
                 "title": "Terms of use",
                 "path": "terms-of-use",
-                "content-width": "wide"
+                "content-width": "wide",
+                "icon": "lucide-scroll-text"
               }
-            ],
-            "icon": "scroll-text-icon"
+            ]
           }
         ]
       },
@@ -99,7 +112,8 @@
         "pages": [
           {
             "title": "Getting started",
-            "path": "students/getting-started"
+            "path": "students/getting-started",
+            "icon": "arrow-right-circle"
           },
           {
             "group": "Policies",
@@ -107,11 +121,13 @@
             "pages": [
               {
                 "title": "Privacy policy",
-                "path": "privacy-policy"
+                "path": "privacy-policy",
+                "icon": "lucide-scroll-text"
               },
               {
                 "title": "Terms of use",
-                "path": "terms-of-use"
+                "path": "terms-of-use",
+                "icon": "lucide-scroll-text"
               }
             ]
           }
@@ -122,7 +138,8 @@
         "pages": [
           {
             "title": "Getting started",
-            "path": "schools/getting-started"
+            "path": "schools/getting-started",
+            "icon": "arrow-right-circle"
           },
           {
             "title": "Setup",
@@ -134,11 +151,13 @@
             "pages": [
               {
                 "title": "Privacy policy",
-                "path": "privacy-policy"
+                "path": "privacy-policy",
+                "icon": "lucide-scroll-text"
               },
               {
                 "title": "Terms of use",
-                "path": "terms-of-use"
+                "path": "terms-of-use",
+                "icon": "lucide-scroll-text"
               }
             ]
           }
