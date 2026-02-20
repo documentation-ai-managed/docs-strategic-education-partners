@@ -80,26 +80,47 @@
                 "icon": "files"
               },
               {
-                "title": "Therapy room",
-                "path": "providers/therapy-room",
-                "icon": "video",
-                "show-toc": false,
-                "content-width": "wide"
-              },
-              {
                 "group": "Therapy room",
                 "icon": "video",
                 "expandable": true,
                 "pages": [
                   {
-                    "title": "Privacy policy",
-                    "path": "privacy-policy",
-                    "icon": "lucide-scroll-text"
+                    "title": "Accessing your therapy room",
+                    "path": "providers/accessing-your-therapy-room",
+                    "show-toc": false,
+                    "content-width": "wide"
                   },
                   {
-                    "title": "Terms of use",
-                    "path": "terms-of-use",
-                    "icon": "lucide-scroll-text"
+                    "title": "Device settings",
+                    "path": "providers/device-settings"
+                  },
+                  {
+                    "title": "Layout modes",
+                    "path": "providers/layout-modes"
+                  },
+                  {
+                    "title": "Activities",
+                    "path": "providers/activities"
+                  },
+                  {
+                    "title": "Whiteboard",
+                    "path": "providers/whiteboard"
+                  },
+                  {
+                    "title": "Participant video display",
+                    "path": "providers/participant-video-display"
+                  },
+                  {
+                    "title": "Text chat",
+                    "path": "providers/text-chat"
+                  },
+                  {
+                    "title": "Admitting students",
+                    "path": "providers/admitting-students"
+                  },
+                  {
+                    "title": "Ending session",
+                    "path": "providers/ending-session"
                   }
                 ]
               },
