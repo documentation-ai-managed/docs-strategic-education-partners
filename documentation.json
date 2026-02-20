@@ -88,7 +88,8 @@
               },
               {
                 "group": "Therapy room",
-                "expandable": false,
+                "icon": "video",
+                "expandable": true,
                 "pages": [
                   {
                     "title": "Privacy policy",
