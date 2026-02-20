@@ -82,7 +82,9 @@
               {
                 "title": "Therapy room",
                 "path": "providers/therapy-room",
-                "icon": "video"
+                "icon": "video",
+                "show-toc": false,
+                "content-width": "wide"
               },
               {
                 "title": "Waiting room",
