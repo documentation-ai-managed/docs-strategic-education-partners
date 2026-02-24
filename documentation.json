@@ -61,7 +61,7 @@
             "icon": "alert-triangle"
           },
           {
-            "group": "Platform Guide",
+            "group": "Platform guide",
             "expandable": false,
             "pages": [
               {
@@ -119,8 +119,8 @@
                     "path": "providers/admitting-students"
                   },
                   {
-                    "title": "Ending session",
-                    "path": "providers/ending-session"
+                    "title": "Ending sessions",
+                    "path": "providers/ending-sessions"
                   }
                 ]
               },
@@ -259,13 +259,5 @@
       "source": "/providers/onboarding",
       "destination": "/providers/getting-started"
     }
-  ],
-  "navbar": {
-    "actions": {
-      "primary": {
-        "title": "Go",
-        "link": "https://www.septherapy.com"
-      }
-    }
-  }
+  ]
 }
