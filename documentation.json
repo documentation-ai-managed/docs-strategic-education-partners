@@ -23,7 +23,9 @@
             "show-toc": false,
             "show-parent-label": false,
             "content-width": "wide",
-            "icon": "home"
+            "icon": "home",
+            "show-sidebar": false,
+            "show-page-navigation": false
           },
           {
             "group": "Policies",
