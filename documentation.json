@@ -25,7 +25,8 @@
             "content-width": "wide",
             "icon": "home",
             "show-sidebar": false,
-            "show-page-navigation": false
+            "show-page-navigation": false,
+            "ask-feedback": false
           },
           {
             "group": "Policies",
@@ -36,14 +37,18 @@
                 "path": "privacy-policy",
                 "icon": "lucide-scroll-text",
                 "show-parent-label": false,
-                "content-width": "wide"
+                "content-width": "wide",
+                "show-page-navigation": false,
+                "ask-feedback": false
               },
               {
                 "title": "Terms of use",
                 "path": "terms-of-use",
                 "icon": "lucide-scroll-text",
                 "show-parent-label": false,
-                "content-width": "wide"
+                "content-width": "wide",
+                "show-page-navigation": false,
+                "ask-feedback": false
               }
             ]
           }
@@ -67,6 +72,11 @@
             "expandable": false,
             "pages": [
               {
+                "title": "Signing in",
+                "path": "providers/signing-in",
+                "icon": "key-round"
+              },
+              {
                 "title": "Dashboard",
                 "path": "providers/dashboard",
                 "icon": "app-window"
@@ -74,7 +84,9 @@
               {
                 "title": "User profile",
                 "path": "providers/user-profile",
-                "icon": "lucide-user-circle2"
+                "icon": "lucide-user-circle2",
+                "show-page-navigation": false,
+                "content-width": "wide"
               },
               {
                 "title": "Student records",
