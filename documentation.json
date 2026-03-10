@@ -99,22 +99,26 @@
                 "expandable": true,
                 "pages": [
                   {
-                    "title": "Accessing your therapy room",
-                    "path": "providers/accessing-your-therapy-room",
+                    "title": "About your therapy room",
+                    "path": "providers/about-your-therapy-room",
                     "show-toc": false,
                     "content-width": "wide"
                   },
                   {
-                    "title": "Device settings",
-                    "path": "providers/device-settings"
+                    "title": "Participants panel",
+                    "path": "providers/participants-panel"
                   },
                   {
-                    "title": "Layout modes",
-                    "path": "providers/layout-modes"
+                    "title": "Activity panel",
+                    "path": "providers/activity-panel"
                   },
                   {
-                    "title": "Activities",
-                    "path": "providers/activities"
+                    "title": "Chat panel",
+                    "path": "providers/chat-panel"
+                  },
+                  {
+                    "title": "Meeting controls",
+                    "path": "providers/meeting-controls"
                   },
                   {
                     "title": "Whiteboard",
@@ -125,16 +129,16 @@
                     "path": "providers/participant-video-display"
                   },
                   {
-                    "title": "Text chat",
-                    "path": "providers/text-chat"
-                  },
-                  {
                     "title": "Admitting students",
                     "path": "providers/admitting-students"
                   },
                   {
                     "title": "Ending sessions",
                     "path": "providers/ending-sessions"
+                  },
+                  {
+                    "title": "Layout modes",
+                    "path": "providers/layout-modes"
                   }
                 ]
               },
