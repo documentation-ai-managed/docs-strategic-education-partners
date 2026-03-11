@@ -85,8 +85,7 @@
                 "title": "User profile",
                 "path": "providers/user-profile",
                 "icon": "lucide-user-circle2",
-                "show-page-navigation": false,
-                "content-width": "wide"
+                "show-page-navigation": false
               },
               {
                 "title": "Student records",
@@ -101,8 +100,7 @@
                   {
                     "title": "About your therapy room",
                     "path": "providers/about-your-therapy-room",
-                    "show-toc": false,
-                    "content-width": "wide"
+                    "show-toc": false
                   },
                   {
                     "title": "Participants panel",
