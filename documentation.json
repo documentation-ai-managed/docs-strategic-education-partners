@@ -22,7 +22,6 @@
             "path": "getting-started",
             "show-toc": false,
             "show-parent-label": false,
-            "content-width": "wide",
             "icon": "home",
             "show-sidebar": false,
             "show-page-navigation": false,
@@ -37,7 +36,6 @@
                 "path": "privacy-policy",
                 "icon": "lucide-scroll-text",
                 "show-parent-label": false,
-                "content-width": "wide",
                 "show-page-navigation": false,
                 "ask-feedback": false
               },
@@ -46,7 +44,6 @@
                 "path": "terms-of-use",
                 "icon": "lucide-scroll-text",
                 "show-parent-label": false,
-                "content-width": "wide",
                 "show-page-navigation": false,
                 "ask-feedback": false
               }
@@ -60,12 +57,14 @@
           {
             "title": "Getting started",
             "path": "providers/getting-started",
-            "icon": "arrow-right-circle"
+            "icon": "arrow-right-circle",
+            "show-page-navigation": false
           },
           {
             "title": "Troubleshooting",
             "path": "providers/troubleshooting",
-            "icon": "alert-triangle"
+            "icon": "alert-triangle",
+            "show-page-navigation": false
           },
           {
             "group": "Platform guide",
